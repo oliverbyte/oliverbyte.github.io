@@ -1,6 +1,6 @@
 AUTHOR = 'Oliver Byte'
 SITENAME = 'Oliver Byte | Multimedia Artist'
-SITEURL = "https://oliverbyte.github.io/"
+# SITEURL = "https://oliverbyte.github.io/"
 
 PATH = "content"
 
@@ -25,7 +25,7 @@ LINKS = (
 #    ("Youtube", "https://www.youtube.com/@goodtimes-laser"),
 #)
 
-DEFAULT_PAGINATION = True
+# DEFAULT_PAGINATION = True
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
@@ -33,7 +33,7 @@ DEFAULT_PAGINATION = True
 THEME = 'themes/pelican-chameleon'
 
 MENUITEMS = [
-    ('Home', '/home.html'),
+    #('Home', '/home.html'),
     #('Laser', [
     #    ('Laser Art', '/category/laser-art.html'),
     #    ]),
