@@ -2,3 +2,5 @@ offline_content
 themes
 __pycache__
 venv
+output
+*.py[cod]

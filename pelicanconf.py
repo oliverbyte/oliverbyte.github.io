@@ -1,6 +1,6 @@
 AUTHOR = 'Oliver Byte'
 SITENAME = 'Oliver Byte | Multimedia Artist'
-SITEURL = ""
+SITEURL = "https://oliverbyte.github.io/"
 
 PATH = "content"
 
