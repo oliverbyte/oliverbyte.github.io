@@ -1,11 +1,14 @@
 Title: Impressum
-Date: 2024-08-24
+Date: 2024-09-29
+Category: Rechtliches
 
-Oliver Baltz
+Ing. O. Baltz
 
 Sophie-Scholl-Str. 51
 
 45721 Haltern am See
+
+Deutschland
 
 Mail: info@OliverByte.de
 

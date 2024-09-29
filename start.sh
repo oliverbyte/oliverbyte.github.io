@@ -1,0 +1,1 @@
+pelican content -r -l -v
