@@ -1,6 +1,9 @@
 AUTHOR = 'Oliver Byte'
 SITENAME = 'Oliver Byte | Multimedia Artist'
-SITEURL = "https://oliverbyt-multimedia-artist.github.io/"
+SITEURL = "https://www.oliverbyte.de/"
+
+# Uncomment following line if you want document-relative URLs when developing
+RELATIVE_URLS = True
 
 PATH = "content"
 MARKUP = ('md', 'html')
@@ -27,9 +30,6 @@ LINKS = (
 # )
 
 # DEFAULT_PAGINATION = True
-
-# Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
 
 THEME = 'themes/pelican-chameleon'
 
