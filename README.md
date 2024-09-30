@@ -4,4 +4,4 @@
 3. Commit to main
 
 # Publish site
-1. `ghp-import output -b gh-pages -p`
+1. `ghp-import output -p`
