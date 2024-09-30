@@ -1,0 +1,3 @@
+[submodule "themes/pelican-chameleon"]
+    path = themes/pelican-chameleon
+    url = https://github.com/getpelican/pelican-themes.git
