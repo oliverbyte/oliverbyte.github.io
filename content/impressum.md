@@ -6,7 +6,7 @@ Ing. O. Baltz
 
 Sophie-Scholl-Str. 51
 
-45721 Haltern am See
+45721 Haltern am See (Sythen)
 
 Deutschland
 
