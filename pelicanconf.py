@@ -37,9 +37,10 @@ MENUITEMS = [
     #('Home', '/'),
     ('Laser',
         [
-            ('osc2laser', 'https://github.com/goodtimes-code/osc2laser'),
-            ('laserpong', 'https://github.com/goodtimes-code/laserpong'),
-            ('msvg2ild', 'https://github.com/goodtimes-code/msvg2ild'),
+            ('goodtimes | laser crew', '/goodtimes-laser-crew.html'),
+            ('osc2laser | laser software', 'https://github.com/goodtimes-code/osc2laser'),
+            ('laserpong | laser game', 'https://github.com/goodtimes-code/laserpong'),
+            ('msvg2ild | laser tool', 'https://github.com/goodtimes-code/msvg2ild'),
         ]
     ),
     ('Ansichten', [
