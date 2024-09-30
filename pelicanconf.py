@@ -1,9 +1,9 @@
 AUTHOR = 'Oliver Byte'
 SITENAME = 'Oliver Byte | Multimedia Artist'
-SITEURL = "https://www.oliverbyte.de/"
+SITEURL = "https://www.oliverbyte.de"
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 PATH = "content"
 MARKUP = ('md', 'html')

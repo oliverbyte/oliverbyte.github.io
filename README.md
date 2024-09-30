@@ -4,4 +4,4 @@
 3. Commit to main
 
 # Publish site
-1. `ghp-import output -p`
+1. `ghp-import output -p` (pushes to remote branch 'gh-pages' which is deployed then via GitHub actions)
