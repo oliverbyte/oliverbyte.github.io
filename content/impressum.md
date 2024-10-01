@@ -1,5 +1,5 @@
 Title: Impressum
-Date: 2024-09-29
+Date: 1999-03-15
 Category: Rechtliches
 
 Ing. O. Baltz

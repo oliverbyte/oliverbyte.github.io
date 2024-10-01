@@ -1,5 +1,5 @@
 Title: Datenschutzerklärung
-Date: 2024-09-30
+Date: 1999-03-16
 Category: Rechtliches
 
 ## Verantwortlicher für den Datenschutz auf dieser Website:

@@ -34,20 +34,7 @@ LINKS = (
 THEME = 'themes/pelican-chameleon'
 
 MENUITEMS = [
-    #('Home', '/'),
-    ('Laser',
-        [
-            ('goodtimes | laser crew', '/goodtimes-laser-crew.html'),
-            ('osc2laser | laser software', 'https://github.com/goodtimes-code/osc2laser'),
-            ('laserpong | laser game', 'https://github.com/goodtimes-code/laserpong'),
-            ('msvg2ild | laser tool', 'https://github.com/goodtimes-code/msvg2ild'),
-        ]
-    ),
-    ('Ansichten', [
-        ('Tags', '/tags.html'),
-        ('Kategorien', '/categories.html'),
-        ('Chronologisch', '/archives.html'),
-    ]),
+    ('Kategorien', '/categories.html'),
     ('Kontakt', [
         ('E-Mail', 'mailto: info@oliverbyte.de'),
         ('Github', 'https://github.com/goodtimes-code'),

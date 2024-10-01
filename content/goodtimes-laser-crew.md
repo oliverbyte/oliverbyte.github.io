@@ -1,6 +1,6 @@
 Title: goodtimes | laser crew
 Date: 2024-09-30
-Category: Laser
+Category: Showlaser (Meetup)
 
 # goodtimes | laser crew
 
