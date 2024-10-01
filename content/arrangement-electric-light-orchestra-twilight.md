@@ -2,7 +2,7 @@ Title: Arrangement "Twilight" (Electric Light Orchestra)
 Date: 2013-07-23
 Category: Musik (Arrangement)
 
-Ende 2013 wurde im Rahmen der *Sinfonic Rock Night* in Nordhorn der Song *Twilight* in einer Bearbeitung für Orchester aufgeführt.
+Ende 2013 wurde im Rahmen der *Sinfonic Rock Night* in Nordhorn der Song *Twilight* in einer eigens dafür erstellten Bearbeitung für Orchester aufgeführt.
 
 # Fakten
 * Partitur für: Sinfonie-Orchester, Rockband, Chor, Blasorchester, Percussion
