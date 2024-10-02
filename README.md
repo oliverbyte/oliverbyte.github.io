@@ -4,4 +4,4 @@
 3. Commit to main
 
 # Publish site
-1. `ghp-import output -p` (pushes to remote branch 'gh-pages' which is deployed then via GitHub actions)
+1. `ghp-import output -p -c www.oliverbyte.de` (pushes to remote branch 'gh-pages' which is deployed then via GitHub actions)
