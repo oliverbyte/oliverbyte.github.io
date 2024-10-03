@@ -38,6 +38,6 @@ MENUITEMS = [
     ('Kontakt', [
         ('E-Mail', 'mailto: info@oliverbyte.de'),
         ('Github', 'https://github.com/goodtimes-code'),
-        ('Youtube', 'https://www.youtube.com/@goodtimes-laser'),
+        ('Youtube', 'https://www.youtube.com/@oliverbyte'),
     ]),
 ]
